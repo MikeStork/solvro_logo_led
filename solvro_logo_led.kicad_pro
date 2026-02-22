@@ -37,7 +37,7 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.85,
+          "drill": 0.0,
           "height": 2.0,
           "width": 1.6
         },
@@ -503,7 +503,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "solvro_logo_led_all.step",
       "svg": "",
       "vrml": ""
     },
