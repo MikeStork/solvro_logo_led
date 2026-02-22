@@ -500,10 +500,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "solvro_logo_led_all.step",
+      "step": "solvro_logo_led_all_v2.step",
       "svg": "",
       "vrml": ""
     },
