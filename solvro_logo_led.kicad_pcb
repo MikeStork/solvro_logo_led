@@ -158,7 +158,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R4"
-			(at 0 -1.829999 90)
+			(at 0.11 0.025 90)
 			(layer "F.SilkS")
 			(uuid "8a7798a1-4ac5-439e-aca2-6ce5438d1723")
 			(effects
@@ -357,7 +357,7 @@
 		(descr "LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED handsolder")
 		(property "Reference" "D21"
-			(at 0 -1.829999 135)
+			(at -0.128239 1.941008 135)
 			(layer "F.SilkS")
 			(uuid "d4c01246-c697-4dbd-8702-afaa28eb2ed2")
 			(effects
@@ -591,7 +591,7 @@
 		(descr "LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED handsolder")
 		(property "Reference" "D25"
-			(at 0 -1.829999 45)
+			(at -0.136848 1.778374 45)
 			(layer "F.SilkS")
 			(uuid "8dcc66a4-54f2-44c6-a5b6-b81835fd398f")
 			(effects
@@ -1511,7 +1511,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R6"
-			(at 0 -1.829999 90)
+			(at 0.025 0.005 90)
 			(layer "F.SilkS")
 			(uuid "cc8a1235-e82a-4670-a8a7-e8c9e560ba3a")
 			(effects
@@ -2178,7 +2178,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R3"
-			(at 0 -1.829999 90)
+			(at -0.06 0.085 90)
 			(layer "F.SilkS")
 			(uuid "e7375563-7fd5-4b12-a961-10bcb5efb9ed")
 			(effects
@@ -2377,7 +2377,7 @@
 		(descr "LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED handsolder")
 		(property "Reference" "D17"
-			(at 0 -1.829999 45)
+			(at -0.250063 1.85262 45)
 			(layer "F.SilkS")
 			(uuid "3435416f-e717-4c95-bc08-7cb744a7c9d3")
 			(effects
@@ -2841,7 +2841,7 @@
 		(descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C2"
-			(at -0.1375 -2.225 90)
+			(at -0.0675 0 90)
 			(layer "F.SilkS")
 			(uuid "8150800d-e74e-4e02-874a-9329b1ab0741")
 			(effects
@@ -3040,7 +3040,7 @@
 		(descr "LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED handsolder")
 		(property "Reference" "D8"
-			(at 0 -1.829999 135)
+			(at 0.057222 1.887975 135)
 			(layer "F.SilkS")
 			(uuid "604efa29-9ce9-4c93-b9cf-3972df082e64")
 			(effects
@@ -3270,7 +3270,7 @@
 		(descr "LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED handsolder")
 		(property "Reference" "D11"
-			(at 0 -1.829999 45)
+			(at -0.019598 1.796051 45)
 			(layer "F.SilkS")
 			(uuid "5b2f8e63-de86-4f8d-8f3d-22832d25117b")
 			(effects
@@ -3500,7 +3500,7 @@
 		(descr "LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED handsolder")
 		(property "Reference" "D10"
-			(at -0.015102 -1.997577 45)
+			(at -0.014622 1.916259 45)
 			(layer "F.SilkS")
 			(uuid "62734b44-26a8-42e8-b8f0-0ce7cd4d658e")
 			(effects
@@ -3960,7 +3960,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R5"
-			(at 0 -1.829999 90)
+			(at 0.06 -0.015 90)
 			(layer "F.SilkS")
 			(uuid "b824855a-96e6-4d32-b4e5-fdc764586808")
 			(effects
@@ -4393,7 +4393,7 @@
 		(descr "LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED handsolder")
 		(property "Reference" "D5"
-			(at 0 -1.829999 135)
+			(at 0.010761 1.792516 135)
 			(layer "F.SilkS")
 			(uuid "cd84aae5-3c3b-404b-8d44-3312c95b1cb4")
 			(effects
@@ -4623,7 +4623,7 @@
 		(descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C4"
-			(at 0 -1.850001 0)
+			(at -0.0475 -0.06 0)
 			(layer "F.SilkS")
 			(uuid "065ac429-6616-4d48-8c35-03546c5f8f1a")
 			(effects
@@ -4822,7 +4822,7 @@
 		(descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C1"
-			(at 0 -1.850001 0)
+			(at 0.0875 0.045 0)
 			(layer "F.SilkS")
 			(uuid "2426b0b1-1f5b-4a04-a605-48b9f0bd3c49")
 			(effects
@@ -5994,7 +5994,7 @@
 		(descr "LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED handsolder")
 		(property "Reference" "D18"
-			(at 0 -1.829999 135)
+			(at -0.089349 1.880904 135)
 			(layer "F.SilkS")
 			(uuid "19f12104-c691-4f05-b3fc-6761567c2bd2")
 			(effects
@@ -6228,7 +6228,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R7"
-			(at 0 -1.829999 90)
+			(at 0.005 0.05 90)
 			(layer "F.SilkS")
 			(uuid "c920d13d-96cf-4dce-9686-2a0ab3407d65")
 			(effects
@@ -6661,7 +6661,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R1"
-			(at 0 -1.829999 90)
+			(at -0.01 -0.045 90)
 			(layer "F.SilkS")
 			(uuid "e861a50e-584d-4515-a4fd-41b2187ad0bf")
 			(effects
@@ -7784,7 +7784,7 @@
 		(descr "LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED handsolder")
 		(property "Reference" "D14"
-			(at 0 -1.829999 45)
+			(at -0.03182 1.898582 45)
 			(layer "F.SilkS")
 			(uuid "14c8ef68-ed36-4eeb-82d1-beec8c469086")
 			(effects
@@ -8018,7 +8018,7 @@
 		(descr "LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED handsolder")
 		(property "Reference" "D6"
-			(at 0 -1.829999 135)
+			(at 0.020483 1.735947 135)
 			(layer "F.SilkS")
 			(uuid "0a5a66f2-b9ab-4c3e-a337-94fa1717cb0c")
 			(effects
@@ -8248,7 +8248,7 @@
 		(descr "LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED handsolder")
 		(property "Reference" "D26"
-			(at 0 -1.829999 45)
+			(at -0.015102 1.778374 45)
 			(layer "F.SilkS")
 			(uuid "aa558360-5788-4dd1-a579-0d86b0c17094")
 			(effects
@@ -8482,7 +8482,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R2"
-			(at 0 -1.829999 90)
+			(at 0.04 -0.05 90)
 			(layer "F.SilkS")
 			(uuid "3b78bba8-bcb4-4551-9e05-bf33320f739c")
 			(effects
@@ -8857,11 +8857,11 @@
 		)
 	)
 	(gr_rect
-		(start 143.025 67.6)
-		(end 198.7 126.725)
+		(start 143.19 67.26)
+		(end 198.19 127.26)
 		(stroke
 			(width 0.05)
-			(type default)
+			(type solid)
 		)
 		(fill no)
 		(layer "Edge.Cuts")
