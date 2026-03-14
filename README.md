@@ -2,6 +2,7 @@
 
 **Solvro Logo PCB** to dekoracyjna płytka PCB w kształcie logo **Strategicznego Koła Naukowego Solvro**.  
 Projekt powstał jako element promocyjny oraz demonstracja możliwości projektowania PCB.
+![wizualizacja_końcowa](https://github.com/MikeStork/solvro_logo_led/blob/master/wizualizacja_ko%C5%84cowa.PNG)
 
 ---
 
